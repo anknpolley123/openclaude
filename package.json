@@ -1,11 +1,12 @@
 {
   "name": "@anknpolley123/openclaude",
-  "version": "0.1.7",
-  "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models",
-  "type": "module",
+  "version": "1.0.0",
+  "description": "My custom OpenClaude build",
+  "main": "index.js",
   "bin": {
-    "openclaude": "./bin/openclaude"
-  },
+    "ankon-claude": "./index.js"
+  }
+}
   "files": [
     "bin/",
     "dist/cli.mjs",
