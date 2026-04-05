@@ -1,4 +1,4 @@
-# OpenClaude (Ankon Polley Edition) 🚀
+# OpenClaude ( Modified by Ankon Polley) 🚀
 
 OpenClaude is an open-source coding-agent CLI for cloud and local model providers, customized and maintained by **Ankon Polley**.
 
