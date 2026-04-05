@@ -52,16 +52,20 @@ alias ankon-claude='node ~/path-to-repo/bin/claude.js'
   pkg update && pkg upgrade
   pkg install nodejs git ripgrep
  ```
-### In Kali NetHunter 
-    ```bash
+### In Kali NetHunter
+```bash
+
    sudo apt update && sudo apt upgrade
    sudo apt install nodejs git ripgrep
-    ```
+
+ ```
 ### Install & Launch:
 
 ```bash
+
 npm install -g anknpolley123/openclaude
 openclaude
+
 ```
 ### 🛠 Supported Providers
 **Provider**          **Setup Path**
