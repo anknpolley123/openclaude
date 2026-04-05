@@ -46,12 +46,17 @@ alias ankon-claude='node ~/path-to-repo/bin/claude.js'
    $env:CLAUDE_CODE_USE_OPENAI="1"
    openclaude
    ```
-### Installation In Termux/Kali NetHunter 
+### In Termux
  **Setup Environment:**
  ```bash
   pkg update && pkg upgrade
   pkg install nodejs git ripgrep
  ```
+### In Kali NetHunter 
+    ```bash
+   sudo apt update && sudo apt upgrade
+   sudo apt install nodejs git ripgrep
+    ```
 **Install & Launch:**
 ```bash
 npm install -g anknpolley123/openclaude
