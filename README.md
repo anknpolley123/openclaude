@@ -18,7 +18,7 @@ Use OpenAI-compatible APIs, Gemini, GitHub Models, Codex, Ollama, Atomic Chat, a
 
 ---
 
-## 📥 Installation Guide
+# 📥 Installation Guide
 
 ### **Linux & macOS**
 1. **Global Install via NPM:**
@@ -32,7 +32,7 @@ Use OpenAI-compatible APIs, Gemini, GitHub Models, Codex, Ollama, Atomic Chat, a
 Add this to your ~/.bashrc:
 alias ankon-claude='node ~/path-to-repo/bin/claude.js'
  ```
-# Installation In Windows
+### Installation In Windows
 1. **Install Node.js:**
 2. ```bash
    Download from nodejs.org
@@ -57,7 +57,8 @@ alias ankon-claude='node ~/path-to-repo/bin/claude.js'
    sudo apt update && sudo apt upgrade
    sudo apt install nodejs git ripgrep
     ```
-**Install & Launch:**
+### Install & Launch:
+
 ```bash
 npm install -g anknpolley123/openclaude
 openclaude
